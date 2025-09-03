@@ -1,9 +1,16 @@
-# This is an `<h1>` header, which is the largest. 
+# This is an H1 header
 
-# Now we know how to add 'h1'
+Now we know how to add an H1.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+## Code example
+```bash
+git init
+git status
+```
 
+## Task list
+- [x] Add an image
+- [x] Add a code example
+- [ ] Merge this pull request
